@@ -33,6 +33,8 @@ enum Colors {
 let coisa: any;
 coisa = [1];
 
+// unknown (muito parecido com any)
+
 // void (vazio)
 function logger(): void {
   console.log("foo");

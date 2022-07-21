@@ -1,4 +1,4 @@
-// type Alias
+// type Alias -> é mais recomendado do que interfaces
 // | = "pipe"
 type Uid = number | string | undefined;
 
